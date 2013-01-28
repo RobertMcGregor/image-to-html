@@ -1,13 +1,4 @@
-
 <script type="text/javascript" src="./js/jquery-1.4.1.js"></script>
-<!--
-<div id="scroller_container">
- <div id="scroller">
-  <img src="./images/messages/message_home.png"/>
- </div>
-</div>
--->
-<br />
 
 <div class="content" style="background-color:white;">
 
@@ -58,9 +49,6 @@ function img2html($image, $letters='',$pixel_size=5) {
 								'</td>';
 						}
 
-				#if (!$count % 3)
-				#    continue;
-
 				echo "</tr>\n";
 				}
 
@@ -80,12 +68,6 @@ function img2html($image, $letters='',$pixel_size=5) {
 			<td><input type="text" name="pixel_size" value="<?=($pixel_size)?$pixel_size : 5?>"></td>
 		</tr>
 
-<!--
-		<tr>
-			<td align=right>letters to use: </td>
-			<td><input type=text size=40 name=letters value="<?=($letters ? $letters : ' ')?>"></td>
-		</tr>
--->
 		<tr>
 			<td>&nbsp;</td>
 			<td><input type=submit value="convert"></td>
