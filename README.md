@@ -1,6 +1,6 @@
 # Image-to-HTML
 
-*Image-to-HTML* Image-to-HTML is a fun and cool bit php that is sure to entertain you for at least a few minutes.
+*Image-to-HTML* is a fun and cool bit of php that is sure to entertain you for at least a few minutes.
 
 ### How to Use
 
