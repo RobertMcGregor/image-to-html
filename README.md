@@ -9,12 +9,12 @@
 
 ### Features
 
-* Currently I'm still looking for a use. using HTML instead od an image is slower and more complicated. 
+* Currently I'm still looking for a use. using HTML instead of an image is slower and more complicated. 
 * It's free!
 
 ## Website
 
-* [Example](http://http://www.damianmcgregor.com/?page=image_convert)
+* [Example](http://www.damianmcgregor.com/?page=image_convert)
 * [GitHub](https://github.com/RobertMcGregor/Image-to-HTML)
 
 ## Author
